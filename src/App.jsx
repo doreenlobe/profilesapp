@@ -16,7 +16,8 @@ function App() {
           <img src={viteLogo} className="vite" alt="Vite logo" />
         </div>
         <div>
-          <h1>Hello world, this is Doreen</h1>{" "}
+          <h1>Doreen’s AI Web App</h1>
+          <p>CSCE 3420 - Serverless Web Application</p>
           <p>
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>
